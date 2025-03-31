@@ -38,9 +38,9 @@ System.out.println(dog);
         var weightDif = weight2 - weight1;
         System.out.println("Ответ на задание'6.2' = " + weightDif);
 // Задание номер 7
-        weightDif = weight2 % weight1;
+        var weightDif2 = weight2 % weight1;
         // var weightDif = sumWeight % weight1; выдает такое же значение просто не понятно какой вариант правильный
-        System.out.println("Ответ на задание '7' = " + weightDif);
+        System.out.println("Ответ на задание '7' = " + weightDif2);
 //Задание номер 8
         var workingHours = 640;
         var hoursPerWorker = 8;
