@@ -19,9 +19,7 @@ System.out.println(dog);
                 paper = paper - 7639;
                         System.out.println(paper);
 
-
 //Задание номер 4
-
             var friend = 19;
             friend = friend + 2;
             System.out.println(friend);
@@ -51,16 +49,5 @@ System.out.println(dog);
         workers = 94;
                 hoursPerWorker = workingHours / workers;
         System.out.println("Ответ на задание '8.2' = " + hoursPerWorker);
-
-
-
-
-
-
-
-
-
-
-
 }
 }
